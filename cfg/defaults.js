@@ -49,7 +49,7 @@ function getDefaultModules() {
         loader: 'file-loader'
       },
       {
-        test: /\.json$/,
+        test: /\.json/,
         loader: 'json-loader'
       }
     ]
