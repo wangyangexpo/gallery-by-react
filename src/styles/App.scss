@@ -52,6 +52,11 @@ body {
             &.is-inverse {
                 transform: translate(320px) rotateY(180deg);
             }
+
+            img {
+                width: 240px;
+                height: 240px;
+            }
         }
         figcaption {
 
